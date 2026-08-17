@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-ls65z9.menara4djod.cyou/sitemap.xml
